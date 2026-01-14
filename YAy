@@ -1,10 +1,110 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>The Vikases</title>
-  </head>
-  <body>
-    <h1>The Vikases</h1>
-    <p>If you can read this, GitHub Pages works.</p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Vikases</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="page">
+
+  <aside id="sidebar">
+    <h2>Ambiguouspedia</h2>
+    <ul>
+      <li><a href="#">Main page</a></li>
+      <li><a href="#">Current events</a></li>
+      <li><a href="#">Random Vikas</a></li>
+      <li><a href="#">Help</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
+  </aside>
+
+  <main id="content">
+
+    <header>
+      <h1>The Vikases</h1>
+      <p class="subtitle">From the <i>Free, Ambiguous Encyclopedia</i></p>
+    </header>
+
+    <div class="infobox">
+      <h3>The Vikases</h3>
+      <table>
+        <tr><th>Directed by</th><td>Various</td></tr>
+        <tr><th>Written by</th><td>Disputed</td></tr>
+        <tr><th>Based on</th><td>The Lorax (thematically)</td></tr>
+        <tr><th>Release year</th><td>2026</td></tr>
+        <tr><th>Budget</th><td>Mostly time</td></tr>
+        <tr><th>Box office</th><td>Statistically impossible</td></tr>
+      </table>
+    </div>
+
+    <h2>Plot</h2>
+    <p>The Vikases are members of the endangered genus Treekas, living symbiotically within forests and various unrelated realities. Despite existing across multiple forms, all Vikases share a single neutral facial expression and collective awareness.</p>
+    <p>The ecosystem collapses when Baby Joey, a powerful child-like entity with unexplained destructive abilities, annihilates the Treekases using her fist. The act results in mass deforestation, meme collapse, and timeline instability.</p>
+    <p>The Lorax, bound by his oath to speak for the trees, attempts to intervene but is unable to defeat Baby Joey alone. As a last resort, he initiates a summoning event, calling forth all remaining Vikas incarnations from across the multiverse.</p>
+    <ul>
+      <li>A Minecraft villager manifestation</li>
+      <li>Multiple legacy internet meme variants</li>
+      <li>A periodic-table-themed combat unit</li>
+      <li>A Bollywood-inspired melee duo</li>
+      <li>Several aquatic and airborne forms</li>
+      <li>An unidentified sentient footwear artifact</li>
+    </ul>
+    <p>The film culminates in a confrontation between the assembled Vikases and Baby Joey. The outcome is left deliberately ambiguous, with the final scene showing the forest partially restored and Baby Joey temporarily absent.</p>
+
+    <h2>Characters</h2>
+    <p><b>The Vikases:</b> A collective entity rather than a single character. Each Vikas incarnation appears in a different form but is treated as canonically equivalent.</p>
+    <p><b>The Lorax:</b> Reprising his role as a defender of trees, the Lorax functions as both narrator and reluctant commander. This is the first depiction of the character leading a multiversal coalition.</p>
+    <p><b>Baby Joey:</b> The primary antagonist. Known in-universe as The Destroyer of the Elements, Baby Joey’s motivations are never fully explained. Her primary weapon is her fist.</p>
+
+    <h2>Themes</h2>
+    <ul>
+      <li>Environmental collapse and restoration</li>
+      <li>Identity fragmentation</li>
+      <li>Meme persistence</li>
+      <li>The futility of individual action versus collective absurdity</li>
+      <li>Trees</li>
+    </ul>
+
+    <h2>Style and Animation</h2>
+    <p>The film employs a mixed-media animation style combining CGI environments, stills from video games, internet meme formats, and low-effort face overlays. Critics described the visual style as “deliberate,” “concerning,” and “surprisingly consistent.”</p>
+
+    <h2>Musical Numbers</h2>
+    <p>The Vikases features several original songs, each serving a unique narrative purpose and often defying traditional musical logic.</p>
+    <ol>
+      <li><b>Prep Time</b> – Ensemble cast: Painfully earnest motivational track with repetitive melodies, playful harmonies, and bopping background characters.</li>
+      <li><b>Root & Rise</b> – Treekas Choir: Sung entirely in minor intervals; lyrics encourage standing still while symbolically resisting impending doom.</li>
+      <li><b>Silent Stares</b> – Vikas Incarnations: Instrumental with occasional whispered vocalizations. Choreographed nods and subtle facial expressions form the primary “performance.”</li>
+      <li><b>Baby Joey’s Theme</b> – Orchestral: Recurring leitmotif featuring slow brass and occasional fist-taps.</li>
+      <li><b>Prep Time (War Reprise)</b> – Ensemble & Strings: Minor-key reinterpretation during final battle montage; slower, melancholic, and emotionally manipulative.</li>
+    </ol>
+
+    <h2>Reception</h2>
+    <p>Upon release, The Vikases received polarized reactions. Some critics praised its commitment to chaos and internal logic, while others questioned whether it was legally a movie. Online audiences quickly embraced the film as a cult classic, particularly for its lore density and refusal to clarify canon.</p>
+
+    <h2>Controversies</h2>
+    <p>Use of the Lorax Character, depiction of Baby Joey, repeated use of the same face, environmental messaging confusion, visual style and viewer distress, and canon ambiguity.</p>
+
+    <h2>Box Office</h2>
+    <p>The Vikases experienced a box office performance that analysts described as “statistically impossible,” with wildly conflicting numbers domestically, internationally, and online.</p>
+
+    <h2>Awards</h2>
+    <p>The Vikases received recognition from a variety of festivals and organizations, many of disputed legitimacy.</p>
+
+    <h2>Legacy</h2>
+    <p>The Vikases has spawned extensive fan lore, reaction images, tier lists of Vikas incarnations, and academic debate over whether the genus Treekas qualifies as flora, fauna, or content.</p>
+
+    <footer>
+      <p class="categories">
+        Categories: <a href="#">Animated films</a> · <a href="#">Absurdist cinema</a> · <a href="#">Fictional endangered species</a>
+      </p>
+    </footer>
+
+  </main>
+
+</div>
+
+</body>
 </html>
+
